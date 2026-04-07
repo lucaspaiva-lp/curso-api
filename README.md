@@ -71,6 +71,6 @@ Certifique-se de ter o **Docker** instalado em sua máquina.
 
 ## Autor
 
-**Nome Completo:** Lucas Paiva S. de Oliveira
+**Nome Completo:** Lucas Paiva S. de Olieira
 
 **GitHub:** [lucaspaiva-lp](https://github.com/lucaspaiva-lp)
